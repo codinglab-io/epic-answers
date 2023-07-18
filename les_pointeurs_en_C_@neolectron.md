@@ -49,9 +49,9 @@ et `monPointeur` **vaudra** (sera évalué a) le int dont on avait l'adresse. (l
 }
 ```
 
-alors **VU QUE UN POINTEUR C'EST UNE VARIABLE TOUT A FAIT NORMALE** elle aussi une adresse
+alors **VU QUE UN POINTEUR C'EST UNE VARIABLE TOUT A FAIT NORMALE** elle aussi a une adresse
 
-c'est toujours le schéma en tableau qu'on voit sur openclassroom avec adresse a gauche valeur a droite
+c'est toujours le schéma en tableau qu'on voit sur openclassroom avec adresse a gauche et valeur a droite
 
 un pointeur c'est pareil ça se cale là, genre 0 diff.
 
